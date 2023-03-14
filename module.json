@@ -1,0 +1,29 @@
+{
+  "name": "moore-foundry-vtt-fx",
+  "title": "Add some more Token Magic FXs ",
+  "description": "Add some additional options to Token Magic Fxs",
+  "version": "1.0.0",
+  "authors": [{"name": "Paul Potsides"}],
+  "socket": true,
+  "esmodules": ["index.mjs"],
+  "styles": [],
+  "packs": [],
+  "url": "https://github.com/strongpauly/foundry-vtt-hacks",
+  "download": "https://github.com/strongpauly/foundry-vtt-hacks/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/strongpauly/foundry-vtt-hacks/main/module.json",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10",
+    "maximum": "11"
+  },
+  "relationships": {
+    "requires": [{
+      "id": "tokenmagic",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/Feu-Secret/Tokenmagic/master/tokenmagic/module.json",
+      "compatibility": {
+        "verified": "0.6.1.2"
+      }
+    }]
+  }
+}
