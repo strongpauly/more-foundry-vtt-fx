@@ -1,6 +1,6 @@
 {
-  "name": "moore-foundry-vtt-fx",
-  "title": "Add some more Token Magic FXs ",
+  "name": "more-foundry-vtt-fx",
+  "title": "More Token Magic Fxs",
   "description": "Add some additional options to Token Magic Fxs",
   "version": "1.0.0",
   "authors": [{"name": "Paul Potsides"}],
