@@ -8,9 +8,9 @@
   "esmodules": ["index.mjs"],
   "styles": [],
   "packs": [],
-  "url": "https://github.com/strongpauly/foundry-vtt-hacks",
-  "download": "https://github.com/strongpauly/foundry-vtt-hacks/archive/refs/heads/main.zip",
-  "manifest": "https://raw.githubusercontent.com/strongpauly/foundry-vtt-hacks/main/module.json",
+  "url": "https://github.com/strongpauly/more-foundry-vtt-fx",
+  "download": "https://github.com/strongpauly/more-foundry-vtt-fx/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/strongpauly/more-foundry-vtt-fx/main/module.json",
   "compatibility": {
     "minimum": 10,
     "verified": "10",
