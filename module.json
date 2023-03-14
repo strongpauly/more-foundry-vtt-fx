@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/strongpauly/more-foundry-vtt-fx",
   "download": "https://github.com/strongpauly/more-foundry-vtt-fx/archive/refs/heads/main.zip",
-  "manifest": "https://github.com/strongpauly/more-foundry-vtt-fx/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/strongpauly/more-foundry-vtt-fx/main/module.json",
   "compatibility": {
     "minimum": 10,
     "verified": "10",
